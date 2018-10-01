@@ -1,0 +1,254 @@
+.YUI
+{
+ width: 100%;
+ height: 400px;
+ display: block;
+ background: #3c4955 url(../hsgdth/intro-bg.jpg) 50% no-repeat;
+     background-size: 100%;
+
+}
+
+.Voici {
+	margin-left:22%;
+	padding-top:7%;
+	font-size:40px;
+	color:white;
+}
+
+.UN
+{
+	margin-left:32%;
+	padding-top:10%;
+	font-size:20px;
+	color:white;
+}
+
+  .YUI li
+{
+        
+        font-size: 24px;
+        display: inline-block ;
+        border: none;
+        padding-right:30px;
+        margin-top: 0;
+        margin-bottom: 0;
+        box-sizing: border-box;
+    }
+.YUI ul
+{
+        list-style: none;
+        padding: 10px;
+        cursor: pointer;
+          margin-left: 800px;
+
+   }
+   
+   .Box
+   {
+       border:solid;
+	   border-color:green;
+	   color:lightgreen;
+	   text-align:center;
+	   position:relative;
+	   right:260px;
+	   bottom:-30px;
+	
+   }
+
+   
+   
+	
+.portfolio{
+ padding-bottom: 80px;
+}
+
+.portfolio ul{
+   list-style: none;
+   position: relative;
+   margin-left: 27%;
+   margin-top: 4%;
+   font-family: Big John;
+   padding-bottom: 3%;
+
+
+}
+.portfolio li{
+   font-size: 10px;
+   display: inline-block ;
+   border: none;
+   color: #3c4955;
+   cursor: pointer;
+   text-align: center;
+   padding: 10px;
+   background: #eaeaea;
+   border-radius: 3%;
+}
+
+.image{
+ display: inline-block;
+}
+
+.image.img1{
+ position: relative;
+ left: 10%;
+ cursor: pointer;
+}
+
+.image.img2{
+ position: relative;
+ left: 13%;
+ cursor: pointer;
+}
+
+.image.img3{
+ position: relative;
+ left: 10%;
+ top: 35px;
+ cursor: pointer;
+}
+
+.image.img4{
+ position: relative;
+ left: 13%;
+ top: 35px;
+ cursor: pointer;
+}
+
+.image:hover {
+ opacity: 0.3;
+ background: #48bf72;
+ }
+
+  .portfolio li:hover{
+   color: white;
+   background: #48bf72;
+  }
+	   
+	   
+	   .BottomBox
+{
+ width: 100%;
+ height: 350px;
+ display: block;
+ background: #3c4955 url(men-computer-opt.jpg) 50% no-repeat;
+     background-size: 100%;
+	 padding:0px;
+	 color:white;
+	 
+}
+
+.BottomBox p
+{
+margin-left:55%;
+margin-right:20%;
+}	
+.BottomBox h1, h3
+{
+margin-left:55%;
+}	   
+	  
+.Con
+{
+       border:solid;
+	   border-color:black;
+	   color:black;
+	   text-align:center;
+	   position:relative;
+	   margin-left:55%;
+	   margin-right:30%;
+	   margin-top:2%;
+} 
+.contact{
+ height: 400px;
+}
+
+
+.input1{
+   margin-left: 30%;
+   padding: 10px;
+   display: inline-block;
+   width: 200px;
+}
+.input2{
+
+   padding: 10px;
+   display: inline-block;
+   width: 200px;
+}
+
+input[type=text]{
+   width:100%;
+   border:2px solid #3c4955;
+   border-radius:2px;
+   padding:8px;
+   box-sizing:border-box;
+   font-weight: 600;
+   background: #f1f1f1;
+ }
+ .textar{
+   margin-left: 30%;
+   padding: 10px;
+   display: inline-block;
+ }
+textarea{
+   border:2px solid #3c4955;
+   border-radius:2px;
+   padding:8px;
+   box-sizing:border-box;
+   font-weight: 600;
+   background: #f1f1f1;
+}
+
+.enoyer{
+font-family: Slim Joe;
+ padding: 10px;
+ margin-left: 30.7%;
+ width: 405px;
+ font-size: 20px;
+ background: #48bf72;
+ color: white;
+ text-align: center;
+ border-radius: 2px;
+ cursor: pointer;
+}
+
+.footer{
+ width: 100%;
+ height: 170px;
+ background: #3c4955;
+ font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+ font-size: 12px;
+}
+
+.cop{
+ color: white;
+ padding-top: 70px;
+ margin-left: 150px;
+}
+
+.footer ul{
+ display: inline-block;
+ position: relative;
+ left: 800px;
+ bottom: 45px;
+ list-style: none;
+}
+.footer li {
+   display: inline-block ;
+   padding-left: 10px;
+   cursor: pointer;
+ } 
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+	   
+   
